@@ -9,3 +9,7 @@ Day-2:
   a. Inserting items into an array
   b. Que-1: Duplicate Zeros
   c. Que-2: Merge Sorted Array
+  
+  
+Important Ques:-
+1. Reverse a linked list using recursion - https://leetcode.com/explore/learn/card/recursion-i/251/scenario-i-recurrence-relation/2378/
